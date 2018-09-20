@@ -1,7 +1,7 @@
  {
   "token" : "Bot token goes here", 
   "ms" : 1500,
-  "roleToDisco" : ["disco"], 
+  "roleToDisco" : ["DEVELOPER"], 
   "prefix" : "=",
   "allowedUsers" : ["354716386716811264", "389090790984515594"] 
 }
