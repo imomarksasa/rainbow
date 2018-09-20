@@ -14,7 +14,6 @@ client.on('message', message => {
 
 
 const {Client} = require('discord.js')
-const client = new Client()
 const RainClient = require("rainbow-role")
 const rain = new RainClient("!", "Developer", 10, 5, false)
 
