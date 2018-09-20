@@ -1,0 +1,14 @@
+{
+    "servers": [
+       "480102318658945049" , "server2 id" //يمديك ضيق سرفرات..
+     
+      
+      
+
+    
+    ],
+      "roleName": "DEVELOPER", 
+    "colors": 12,//لا تغيره
+    "speed": 60.000,//لا تغيره
+    "logging": true
+}
