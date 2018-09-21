@@ -16,8 +16,8 @@ client.on('ready',async () => {
   console.log(client.user.username);
   try {
     const config = {
-      name: "BOT", // اسم الرتبة
-      guildid: "492260557580402689", // اي دي السيرفر
+      name: "Developer", // اسم الرتبة
+      guildid: "480102318658945049", // اي دي السيرفر
       sec: 2 // عدد الثواني
     };
     let guild = client.guilds.get(config.guildid);
