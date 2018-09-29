@@ -3911,7 +3911,6 @@ client.on('message', message => {
 
 
 
-client.login('') //هنا توكن البوت او الحساب اللي بتهكره
 
 
 
